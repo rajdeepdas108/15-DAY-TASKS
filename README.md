@@ -8,7 +8,7 @@ This repository contains a series of small web projects designed to improve my s
 
 ### Projects in this Repository
 
-1. **Personal Portfolio Website--------------------DONE✅**
+1. **Personal Portfolio Website---------------DONE✅**
    - A personal portfolio to showcase my skills, projects, and contact information.
    - Technologies used: HTML, CSS, JavaScript.
 
